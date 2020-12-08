@@ -1,5 +1,3 @@
-# Task-a-thon Prototype
-
 # Welcome to the Task-a-Thon: A Game to Help Students with Time Management!
 
 As educational curriculums become more advanced and competitive, many students find themselves juggling classes and several assignments all at once, as well as time for meals, sleep, and relaxation. 
