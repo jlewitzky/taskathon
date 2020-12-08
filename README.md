@@ -10,4 +10,4 @@ The combination of wanting to provide students with an entertaining resource to 
 
 # Navigating the Prototype
 
-The prototype of my interface is developed in Balsamiq, a simple, user-friendly prototyping tool. To explore, you must open the attached file, click the "Play" arrow in the top right corner, and then you will be able to click through the various functions.
+The prototype of my interface is developed in Balsamiq, a simple, user-friendly prototyping tool. To explore, you must open the attached file labeled "Hi-Fi Prototype", click the "Play" arrow in the top right corner, and then you will be able to click through the various functions.
